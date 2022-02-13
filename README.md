@@ -15,7 +15,7 @@ All tables and results of the experiments are saved in the folder output/
 ### Open in your local machine
 - Clone this repository
 - Install required libraries `pip install -r requirements.txt`
-- Open the notebook and run all cells
+- Open experiments.ipynb and run all cells
 
 ## Representation of phonemes and signs
 Table 1: Phonemes considered and their representation in the dataset
