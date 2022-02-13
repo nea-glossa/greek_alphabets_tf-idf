@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+"""
+ The following functions are used to create an annotated heatmap and they were copied from:
+ https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html#using-the-helper-function-code-style
+"""
 def heatmap(data, row_labels, col_labels, ax=None,
             **kwargs):
     """
@@ -117,6 +121,10 @@ def annotate_heatmap(im, data=None, valfmt="{x:.2f}",
 
     return texts
 
+"""
+The following functions are used to get the top pairs from a correlation matrix and they were copied from:
+https://stackoverflow.com/a/41453817
+"""
 def get_redundant_pairs(df):
     '''Get diagonal and lower triangular pairs of correlation matrix'''
     pairs_to_drop = set()
