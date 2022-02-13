@@ -19,8 +19,8 @@ All tables and results of the experiments are saved in the folder output/
 
 ## Representation of phonemes and signs
 Table 1: Phonemes considered and their representation in the dataset
-![Phonemes considered and their representation in the dataset](data\phonemes_table.png)
+![Phonemes considered and their representation in the dataset](./data/phonemes_table.png)
 
 
 Table 2: Signs and their allographs with the numeric codes used in the dataset
-![Signs and their allographs with the numeric codes used in the dataset](data\graphemes_table.png)
+![Signs and their allographs with the numeric codes used in the dataset](./data/graphemes_table.png)
