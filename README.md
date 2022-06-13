@@ -1,6 +1,6 @@
 # Measuring particularity and similarity in archaic Greek alphabets with NLP 
 
-This code supports the paper "Measuring particularity and similarity in archaic Greek alphabets with NLP". It consists of a series of experiments that apply TF-IDF to Greek epigraphical evidence of the 8th and 7th centuries BC to measure:
+This code supports the paper: Elvira Astoreca, N. (Forthcoming) "Measuring particularity and similarity in archaic Greek alphabets with NLP" in Steele, P.M. & Boyes, P.J. (eds.) *Writing Around the Ancient Mediterranean: Practices and Adaptations*. It consists of a series of experiments that apply TF-IDF to Greek epigraphical evidence of the 8th and 7th centuries BC to measure:
 1. the most characteristic graphematic features of each regional alphabet 
 2. which alphabets are more similar to each other
 
